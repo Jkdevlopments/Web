@@ -10,9 +10,7 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
-      - uses: actions/checkout@v2
-
-      used to cache dependencies with a timeout
+      - uses: actions/checkout
       - name: Get Date
         id: get-date
         run: |
