@@ -90,7 +90,7 @@ requirements = python3,kivy==2.3.0,kivymd==1.1.1,pillow==10.3.0
 
 # (str) Presplash of the application
 
-presplash.filename = %(source.dir)s/images/presplash.png
+presplash.filename = %(source.dir)s/images/presplash(1).png
 
 
 
